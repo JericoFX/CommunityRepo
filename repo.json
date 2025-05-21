@@ -1,0 +1,29 @@
+[
+  {
+    "Nombre": "MiProyecto1",
+    "Version": "1.0.0",
+    "Autor": "Autor1",
+    "Licencia": "MIT",
+    "Abrir en Github": "https://github.com/usuario1/proyecto1",
+    "Leer Licencia": "https://github.com/usuario1/proyecto1/blob/main/LICENSE",
+    "Core": "v1.2.3"
+  },
+  {
+    "Nombre": "MiProyecto2",
+    "Version": "2.1.0",
+    "Autor": "Autor2",
+    "Licencia": "GPL-3.0",
+    "Abrir en Github": "https://github.com/usuario2/proyecto2",
+    "Leer Licencia": "https://github.com/usuario2/proyecto2/blob/main/LICENSE",
+    "Core": "v2.0.0"
+  },
+  {
+    "Nombre": "MiProyecto3",
+    "Version": "0.9.5",
+    "Autor": "Autor3",
+    "Licencia": "Apache-2.0",
+    "Abrir en Github": "https://github.com/usuario3/proyecto3",
+    "Leer Licencia": "https://github.com/usuario3/proyecto3/blob/main/LICENSE",
+    "Core": "v1.0.0"
+  }
+]
